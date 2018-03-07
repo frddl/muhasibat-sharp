@@ -1,0 +1,27 @@
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Mühasibat.exe.config
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Mühasibat.exe
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Mühasibat.pdb
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\EntityFramework.dll
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\System.Data.SQLite.dll
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\System.Data.SqlLocalDb.dll
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\EntityFramework.xml
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\System.Data.SQLite.xml
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\System.Data.SqlLocalDb.xml
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\en-GB\System.Data.SqlLocalDb.resources.dll
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Interop.ACTIVEXLib.dll
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Interop.EnvDTE.dll
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Interop.VSLangProj.dll
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Interop.VSLangProj2.dll
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Muhasibat 1.0.csproj.ResolveComReference.cache
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Confirmation.resources
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.ItemForm.resources
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.MainWindow.resources
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Muhasibat.Properties.Resources.resources
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Muhasibat.StockManager.resources
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Muhasibat 1.0.csproj.GenerateResource.Cache
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Muhasibat 1.0.csproj.CoreCompileInputs.cache
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Mühasibat.exe
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Mühasibat.pdb
+C:\Users\farid\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Muhasibat 1.0.csprojResolveAssemblyReference.cache
